@@ -1,1 +1,0 @@
-mace-md -f test_files/4GIH_lig_ejm_31.sdf --ml_mol test_files/4GIH_lig_ejm_31.sdf --run_type repex --replicas 4 --steps 1000 --output_dir junk --model_path test_files/MACE.model --system_type hybrid
