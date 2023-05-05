@@ -1,0 +1,9 @@
+############################################################
+Overlap for mace-md_examples solvent
+Off-diagonal overlap between windows 0 and 1 = 0.292
+Off-diagonal overlap between windows 1 and 2 = 0.215
+Off-diagonal overlap between windows 2 and 3 = 0.195
+Off-diagonal overlap between windows 3 and 4 = 0.192
+Off-diagonal overlap between windows 4 and 5 = 0.195
+Off-diagonal overlap between windows 5 and 6 = 0.215
+Off-diagonal overlap between windows 6 and 7 = 0.287
